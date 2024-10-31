@@ -1,0 +1,10 @@
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\bin\Debug\WindowsForm Bài kiểm tra số 2.exe.config
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\bin\Debug\WindowsForm Bài kiểm tra số 2.exe
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\bin\Debug\WindowsForm Bài kiểm tra số 2.pdb
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\obj\Debug\WindowsForm Bài kiểm tra số 2.csproj.AssemblyReference.cache
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\obj\Debug\WindowsForm_Bài_kiểm_tra_số_2.Form1.resources
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\obj\Debug\WindowsForm_Bài_kiểm_tra_số_2.Properties.Resources.resources
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\obj\Debug\WindowsForm Bài kiểm tra số 2.csproj.GenerateResource.cache
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\obj\Debug\WindowsForm Bài kiểm tra số 2.csproj.CoreCompileInputs.cache
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\obj\Debug\WindowsForm Bài kiểm tra số 2.exe
+D:\visualcode_net\WindowsForm Bài kiểm tra số 2\WindowsForm Bài kiểm tra số 2\obj\Debug\WindowsForm Bài kiểm tra số 2.pdb
