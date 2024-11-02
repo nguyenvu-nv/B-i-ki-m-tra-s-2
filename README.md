@@ -1,1 +1,1 @@
-# B-i-ki-m-tra-s-2
+![alt](./bai_kt_so2.png)

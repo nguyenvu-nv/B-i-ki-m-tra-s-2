@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{47B6454D-07BF-4AEA-A70E-CB9CC7B58237}|WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2.csproj|solutionrelative:windowsform b\u00E0i ki\u1EC3m tra s\u1ED1 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47B6454D-07BF-4AEA-A70E-CB9CC7B58237}|WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2.csproj|d:\\visualcode_net\\windowsform b\u00E0i ki\u1EC3m tra s\u1ED1 2\\windowsform b\u00E0i ki\u1EC3m tra s\u1ED1 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{47B6454D-07BF-4AEA-A70E-CB9CC7B58237}|WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2.csproj|D:\\visualcode_net\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\windowsform b\u00E0i ki\u1EC3m tra s\u1ED1 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47B6454D-07BF-4AEA-A70E-CB9CC7B58237}|WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2.csproj|solutionrelative:windowsform b\u00E0i ki\u1EC3m tra s\u1ED1 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,15 +32,11 @@
               "RelativeDocumentMoniker": "WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\Form1.cs",
               "ToolTip": "D:\\visualcode_net\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\Form1.cs",
               "RelativeToolTip": "WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\Form1.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAwFEAAAAPAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwH8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T07:48:40.411Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -47,8 +47,7 @@
               "ToolTip": "D:\\visualcode_net\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsForm B\u00E0i ki\u1EC3m tra s\u1ED1 2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:36:16.612Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-31T07:36:16.612Z"
             }
           ]
         }
